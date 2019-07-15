@@ -1,6 +1,6 @@
 # mycode Project
 
-Tracking Code
+Tracking Code and Version Control Projects with git
 
 ## Getting Started
 
